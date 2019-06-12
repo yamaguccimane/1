@@ -12,7 +12,7 @@ h1 {
 body {
 		width: 90%;
 		margin: 0 auto;
-        background-color:white;
+        background-color:#fff;
         background-image: url(https://www.hcbookfinder.com/wp-content/uploads/2016/06/Clouds-Background-HD.jpg);
         
         background-size:cover;
@@ -34,17 +34,17 @@ ul li a{
 }
 
 ul li a:hover{
-    background-color:#FF00FF;
+    background-color:aqua;
     color: #000;
   }
 
 ul li.active a{
-    background-color: #FF00FF;
+    background-color: aqua;
     color: #000;
 }
 
 #feature {
-  color: #FFF;
+  color: aqua;
   background-color: #000;
   background-size: contain;
   background-position: right;
@@ -56,5 +56,5 @@ ul li.active a{
 		padding: 0.5em 0;
 }
 #footer {
-  color: #fff;
+  color: aqua;
 }
